@@ -13,7 +13,7 @@ The example trains a model using the [Boston Housing Data](http://lib.stat.cmu.e
 ```  
 
 ### Issues
-Although the model appears to work ok and the outputs are similar to whats expected the gradCheck test is failing.
+Although the model appears to work ok and the outputs are similar to whats expected but the gradCheck test is failing.
 ``` 
  th gradCheck.lua
 ```
