@@ -12,12 +12,6 @@ The example trains a model using the [Boston Housing Data](http://lib.stat.cmu.e
   criterion = nn.BiasedMSECriterion(criterion_opt)
 ```  
 
-### Issues
-Although the model appears to work ok and the outputs are similar to whats expected but the gradCheck test is failing.
-``` 
- th gradCheck.lua
-```
-
 ### Under Predicting
 
 ``` 
