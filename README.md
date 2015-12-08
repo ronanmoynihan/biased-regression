@@ -15,7 +15,7 @@ The example trains a model using the [Boston Housing Data](http://lib.stat.cmu.e
 ### Under Predicting
 
 ``` 
- th -i main.lua --under
+ th -i main.lua -under
 ```
 
 
@@ -46,7 +46,7 @@ The example trains a model using the [Boston Housing Data](http://lib.stat.cmu.e
 ### Over Prediciting
 
 ``` 
- th -i main.lua --over
+ th -i main.lua -over
 ```
 
 ```
